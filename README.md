@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm mohammed ,<br>I'm Front-End developer with highly skilled web <br>languages ( HTML - Css - Java Script ) I have 6 months <br>experience working on websites.
+Hi 👋 I'm mohammed ,<br>I'm Front-End developer with highly skilled web <br>languages ( HTML - Css - Java Script - Bootstrap - React ) I have 1 year <br>experience working on Projects, Learning & Exploring new web technologies.
 
 
 ## 🌐 Socials:
