@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ramadan</h1>
-<h3 align="center">A passionate front-end developer with highly skilled web languages <br />  <span style="margin-right:auto; margin-left:auto;">( HTML - CSS - Java Script - Bootstrap - React ) </span> with 1 year of experience working on Projects, Learning and exploring new web technologies.</h3>
+<h3 align="center">A passionate front-end developer with highly skilled web languages <br /> ( HTML - CSS - Java Script - Bootstrap - React ) <br /> with 1 year of experience working on Projects, Learning and exploring new web technologies.</h3>
 
 - 🔭 I’m currently working on **Fashonita E-Commerce**
 
