@@ -5,9 +5,9 @@
 
 - 👯 Recently I finished [Liberty NFT Market](https://libertynftmarket.vercel.app/)
 
-- 🌱 I’m currently learning **Redux - Redux toolkit**
+- 🌱 I’m currently learning **Redux - Redux toolkit | Typescript**
 
-- 💬 Ask me about **html, css, javascript, react**
+- 💬 Ask me about **html, css, javascript, react, typescript**
 
 - 📫 How to reach me **mohammedramadan76c@gmail.com**
 
